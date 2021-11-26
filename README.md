@@ -23,7 +23,7 @@ No license, enjoy the code.
 
 Author Information
 ------------------
-Danilo Krlovic
-LinkedIn: https://www.linkedin.com/in/danilo-krlovic-894ba4123
-Personal: https://www.kontrazen.com
+Danilo Krlovic <br />
+LinkedIn: https://www.linkedin.com/in/danilo-krlovic-894ba4123 <br />
+Personal: https://www.kontrazen.com <br />
 GitHub: https://github.com/Kontrazen

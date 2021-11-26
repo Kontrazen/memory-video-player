@@ -1,0 +1,26 @@
+.gifpage{
+	&__container{
+		display: grid;
+		place-items: center;
+		width:90%;
+		height: 60%;
+		justify-self: center;
+		margin-top: 5em ;
+	}
+
+	&__pic{
+		display: grid;
+		background-color: red;
+		height: 25em;
+		place-items: center;
+	}
+
+	&__changebutton{
+		align-content: center;
+		margin: 0.3em;
+		height: 3em;
+		width: 10em;
+		font-size: 1.5em;
+		background-color: rgb(184, 184, 184);
+	}
+}

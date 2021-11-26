@@ -1,0 +1,35 @@
+.homepage{
+	&-container{
+		display: grid;
+		height: 100%;
+		width: 100%;
+		margin-bottom: 30vh;
+		place-items: center;
+	}
+}
+
+.navbar{
+	&-container{
+		display: grid;
+		place-items: center;
+	}
+
+	&-input{
+		text-align: center;
+		min-width:20em;
+		height: 3em;
+		font-size: 2em;
+
+		background-color: rgb(210, 210, 220);
+
+		border:none;
+	}
+
+	&-button{
+		margin-top: 2em;
+		text-align: center;
+		min-width:10em;
+		height: 2.5em;
+		font-size: 1.2em;
+	}
+}

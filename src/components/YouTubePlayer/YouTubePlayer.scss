@@ -1,0 +1,45 @@
+.myvideo{
+
+	&__container{
+		display: flex;
+		flex-direction: column;
+		height: 68vh;
+		align-items: center;
+		justify-content: space-between;
+
+		margin-top:8vh ;
+	}
+
+	&__player-container{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+
+	&__display{
+		display: grid;
+		place-self: center;
+		place-items: center;
+	}
+
+	&__edit-link{
+		place-self: center;
+		align-content: center;
+		margin: 0.5em;
+		height: 3em;
+		width: 10em;
+		font-size: 1.5em;
+		background-color: rgb(184, 184, 184);
+	}
+
+	&__gif-link{
+		place-self: center;
+		align-content: center;
+		margin: 0.3em;
+		height: 3em;
+		width: 10em;
+		font-size: 1.5em;
+		background-color: rgb(184, 184, 184);
+	}
+}
